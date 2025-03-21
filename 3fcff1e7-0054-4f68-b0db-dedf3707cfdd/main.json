@@ -1,1 +1,1 @@
-{"allocations": {"VIXY": 100.0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"VIXY": 25.0, "VIXM": 25.0, "UVIX": 25.0, "TVIX": 25.0}, "frequency": 30, "name": "", "period": "days"}
